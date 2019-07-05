@@ -1,4 +1,4 @@
-export const isEven: (value: number | string) => boolean = value => {
+export const isEven = (value: string | number): boolean => {
   if (typeof value === 'string') {
     return isEven(parseInt(value, 10));
   }
