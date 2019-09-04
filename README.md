@@ -1,7 +1,5 @@
 # rollup-fresh
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/rollup/rollup-fresh.svg)](https://greenkeeper.io/)
-
 Template repositary for creating libraries with Rollup, TypeScript and Babel.
 
 ````
