@@ -1,5 +1,7 @@
 # rollup-fresh
 
+[![Build Status](https://github.com/admmasters/rollup-fresh-typescript/workflows/CI/badge.svg)](https://github.com/fiedl/hole-ice-install/actions)
+
 Template repositary for creating libraries with Rollup, TypeScript and Babel.
 
 ````
